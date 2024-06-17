@@ -1,0 +1,7 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\bin\Debug\BakerySystem.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\bin\Debug\BakerySystem.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\bin\Debug\BakerySystem.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\obj\Debug\BakerySystem.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\obj\Debug\BakerySystem.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\obj\Debug\BakerySystem.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Decorator pattern\BakerySystem\obj\Debug\BakerySystem.pdb
