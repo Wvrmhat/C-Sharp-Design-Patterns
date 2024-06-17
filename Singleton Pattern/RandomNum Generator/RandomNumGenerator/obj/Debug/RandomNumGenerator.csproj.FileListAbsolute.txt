@@ -1,0 +1,7 @@
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\bin\Debug\RandomNumGenerator.exe.config
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\bin\Debug\RandomNumGenerator.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\bin\Debug\RandomNumGenerator.pdb
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\obj\Debug\RandomNumGenerator.csproj.AssemblyReference.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\obj\Debug\RandomNumGenerator.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\obj\Debug\RandomNumGenerator.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Singleton pattern\RandomNumGenerator\obj\Debug\RandomNumGenerator.pdb
