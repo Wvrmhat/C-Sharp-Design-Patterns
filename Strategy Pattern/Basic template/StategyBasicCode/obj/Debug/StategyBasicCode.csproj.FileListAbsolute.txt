@@ -1,0 +1,6 @@
+C:\Users\bhaskins\CloudStation\StategyBasicCode\StategyBasicCode\bin\Debug\StategyBasicCode.exe.config
+C:\Users\bhaskins\CloudStation\StategyBasicCode\StategyBasicCode\bin\Debug\StategyBasicCode.exe
+C:\Users\bhaskins\CloudStation\StategyBasicCode\StategyBasicCode\bin\Debug\StategyBasicCode.pdb
+C:\Users\bhaskins\CloudStation\StategyBasicCode\StategyBasicCode\obj\Debug\StategyBasicCode.csprojResolveAssemblyReference.cache
+C:\Users\bhaskins\CloudStation\StategyBasicCode\StategyBasicCode\obj\Debug\StategyBasicCode.exe
+C:\Users\bhaskins\CloudStation\StategyBasicCode\StategyBasicCode\obj\Debug\StategyBasicCode.pdb
