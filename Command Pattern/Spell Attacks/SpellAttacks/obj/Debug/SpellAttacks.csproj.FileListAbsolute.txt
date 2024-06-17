@@ -1,0 +1,14 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\bin\Debug\SpellAttacks.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\bin\Debug\SpellAttacks.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\bin\Debug\SpellAttacks.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.pdb
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\bin\Debug\SpellAttacks.exe.config
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\bin\Debug\SpellAttacks.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\bin\Debug\SpellAttacks.pdb
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.csproj.AssemblyReference.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\SpellAttacks\obj\Debug\SpellAttacks.pdb
