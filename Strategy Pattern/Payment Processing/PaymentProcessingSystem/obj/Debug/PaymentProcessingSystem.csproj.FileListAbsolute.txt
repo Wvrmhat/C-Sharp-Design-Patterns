@@ -1,0 +1,7 @@
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\bin\Debug\PaymentProcessingSystem.exe.config
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\bin\Debug\PaymentProcessingSystem.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\bin\Debug\PaymentProcessingSystem.pdb
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\obj\Debug\PaymentProcessingSystem.csproj.AssemblyReference.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\obj\Debug\PaymentProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\obj\Debug\PaymentProcessingSystem.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Strategy pattern\PaymentProcessingSystem\obj\Debug\PaymentProcessingSystem.pdb
