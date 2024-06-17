@@ -1,0 +1,14 @@
+C:\Users\maxna\source\repos\ThreadingSingleton\bin\Debug\ThreadingSingleton.exe.config
+C:\Users\maxna\source\repos\ThreadingSingleton\bin\Debug\ThreadingSingleton.exe
+C:\Users\maxna\source\repos\ThreadingSingleton\bin\Debug\ThreadingSingleton.pdb
+C:\Users\maxna\source\repos\ThreadingSingleton\obj\Debug\ThreadingSingleton.csproj.AssemblyReference.cache
+C:\Users\maxna\source\repos\ThreadingSingleton\obj\Debug\ThreadingSingleton.csproj.CoreCompileInputs.cache
+C:\Users\maxna\source\repos\ThreadingSingleton\obj\Debug\ThreadingSingleton.exe
+C:\Users\maxna\source\repos\ThreadingSingleton\obj\Debug\ThreadingSingleton.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\obj\Debug\ThreadingSingleton.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\obj\Debug\ThreadingSingleton.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\obj\Debug\ThreadingSingleton.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\obj\Debug\ThreadingSingleton.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\bin\Debug\ThreadingSingleton.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\bin\Debug\ThreadingSingleton.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\ThreadingSingleton\bin\Debug\ThreadingSingleton.pdb
