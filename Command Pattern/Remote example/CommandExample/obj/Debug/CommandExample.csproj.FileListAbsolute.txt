@@ -1,0 +1,7 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\bin\Debug\CommandExample.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\bin\Debug\CommandExample.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\bin\Debug\CommandExample.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\obj\Debug\CommandExample.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\obj\Debug\CommandExample.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\obj\Debug\CommandExample.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\CommandExample\obj\Debug\CommandExample.pdb
