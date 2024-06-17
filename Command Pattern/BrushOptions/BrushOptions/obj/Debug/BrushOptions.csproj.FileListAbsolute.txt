@@ -1,0 +1,7 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\bin\Debug\BrushOptions.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\bin\Debug\BrushOptions.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\bin\Debug\BrushOptions.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\obj\Debug\BrushOptions.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\obj\Debug\BrushOptions.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\obj\Debug\BrushOptions.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Command pattern\BrushOptions\obj\Debug\BrushOptions.pdb

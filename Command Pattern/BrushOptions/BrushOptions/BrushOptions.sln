@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushOptions", "BrushOptions.csproj", "{268D3637-9EDC-4A03-908F-6E064A86EA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268D3637-9EDC-4A03-908F-6E064A86EA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268D3637-9EDC-4A03-908F-6E064A86EA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268D3637-9EDC-4A03-908F-6E064A86EA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268D3637-9EDC-4A03-908F-6E064A86EA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4920C712-A194-44EB-99D9-CB91792FF8DF}
+	EndGlobalSection
+EndGlobal
