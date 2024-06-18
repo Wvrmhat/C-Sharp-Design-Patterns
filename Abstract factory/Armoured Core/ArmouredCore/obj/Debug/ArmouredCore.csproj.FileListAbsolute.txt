@@ -1,0 +1,7 @@
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\bin\Debug\ArmouredCore.exe.config
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\bin\Debug\ArmouredCore.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\bin\Debug\ArmouredCore.pdb
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\obj\Debug\ArmouredCore.csproj.AssemblyReference.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\obj\Debug\ArmouredCore.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\obj\Debug\ArmouredCore.exe
+C:\Users\maxna\Documents\Uni\BIT_3\IRUD301\Exam prep\Abstract factory pattern\ArmouredCore\obj\Debug\ArmouredCore.pdb
