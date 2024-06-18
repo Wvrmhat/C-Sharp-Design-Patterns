@@ -1,0 +1,6 @@
+C:\Users\bhaskins\CloudStation\NMMU\2017\ONT4101\In Class\FactoryMethodTemplate\FactoryMethodTemplate\bin\Debug\FactoryMethodTemplate.exe.config
+C:\Users\bhaskins\CloudStation\NMMU\2017\ONT4101\In Class\FactoryMethodTemplate\FactoryMethodTemplate\bin\Debug\FactoryMethodTemplate.exe
+C:\Users\bhaskins\CloudStation\NMMU\2017\ONT4101\In Class\FactoryMethodTemplate\FactoryMethodTemplate\bin\Debug\FactoryMethodTemplate.pdb
+C:\Users\bhaskins\CloudStation\NMMU\2017\ONT4101\In Class\FactoryMethodTemplate\FactoryMethodTemplate\obj\Debug\FactoryMethodTemplate.csprojResolveAssemblyReference.cache
+C:\Users\bhaskins\CloudStation\NMMU\2017\ONT4101\In Class\FactoryMethodTemplate\FactoryMethodTemplate\obj\Debug\FactoryMethodTemplate.exe
+C:\Users\bhaskins\CloudStation\NMMU\2017\ONT4101\In Class\FactoryMethodTemplate\FactoryMethodTemplate\obj\Debug\FactoryMethodTemplate.pdb
