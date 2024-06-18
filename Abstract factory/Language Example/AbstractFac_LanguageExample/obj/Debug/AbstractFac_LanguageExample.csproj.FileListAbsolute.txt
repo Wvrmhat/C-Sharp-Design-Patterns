@@ -1,0 +1,2 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Abstract factory method\AbstractFac_LanguageExample\obj\Debug\AbstractFac_LanguageExample.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Abstract factory method\AbstractFac_LanguageExample\obj\Debug\AbstractFac_LanguageExample.csproj.CoreCompileInputs.cache
