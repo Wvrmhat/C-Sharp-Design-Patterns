@@ -1,0 +1,7 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\bin\Debug\FactoryMethodExercise.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\bin\Debug\FactoryMethodExercise.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\bin\Debug\FactoryMethodExercise.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\obj\Debug\FactoryMethodExercise.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\obj\Debug\FactoryMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\obj\Debug\FactoryMethodExercise.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 1 - Fundamentals and the Strategy Pattern\Factory Method pattern\FactoryMethodExercise\obj\Debug\FactoryMethodExercise.pdb
