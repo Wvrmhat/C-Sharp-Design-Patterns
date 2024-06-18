@@ -1,0 +1,7 @@
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\bin\Debug\RedMarket.exe.config
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\bin\Debug\RedMarket.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\bin\Debug\RedMarket.pdb
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\obj\Debug\RedMarket.csproj.AssemblyReference.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\obj\Debug\RedMarket.csproj.CoreCompileInputs.cache
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\obj\Debug\RedMarket.exe
+C:\Users\maxna\Desktop\BIT_3\IRUD301\Unit 3 - Threading and the Singleton, Decorator and Command Patterns\Singleton pattern\RedMarket\obj\Debug\RedMarket.pdb
