@@ -22,11 +22,6 @@ namespace BakerySystem
             CakeBase StrawberryCake = new Cheesecake("Strawberry Cheesecake");
             StrawberryCake = new StrawberryDecorator(StrawberryCake);
 
-            CakeBase Umicake = new Cake("Umika's cake");
-            Umicake = new ChocGanacheDecorator(Umicake);
-            Umicake = new ChocolateSauceDecorator(Umicake);
-
-
             Console.WriteLine(BasicCake.Details());
             Console.WriteLine(BasicCake.Cost());
             Console.WriteLine("---------------------------------");
@@ -43,8 +38,7 @@ namespace BakerySystem
             Console.WriteLine(StrawberryCake.Cost());
             Console.WriteLine("---------------------------------");
 
-            Console.WriteLine(Umicake.Details());
-            Console.WriteLine("Free just for you dear, with extra love and magic <3");
+
         
 
 
